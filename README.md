@@ -68,7 +68,7 @@ Se realizó como **Producto Minimo Viable** ....
 ### **4- Colaboradores.**
 
 **Grupo s17-18-m-data-bi:**
-  - Gloria xxx:  Product owner [Linkedin]()
+  - Gloria Nabor:  Product owner [Linkedin]()
   - xxx xxx: Data analyt [Linkedin]() 
   - xxx xxx: Data scientist [Linkedin]()
   - Hernán Pizarro: Business Intelligence [Linkedin](https://www.linkedin.com/in/hern%C3%A1n-pizarro-683679268/) 
