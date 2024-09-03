@@ -2,7 +2,7 @@
 
 <img src="Imagenes\SP500.jpg" width="1010" height="300">
 
-#  **<p align="center">Análisis del Indice Standard & Poor's 500 o S&P 500 </p>**
+#  **<p align="center">Análisis del Indice Standard & Poor's 500</p>**
 
 ### Presentación
 El proyecto consiste en realizar un análisis del índice Standard & Poor's 500 (S&P 500) .....
