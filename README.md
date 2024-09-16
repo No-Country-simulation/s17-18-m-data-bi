@@ -4,7 +4,7 @@
 
 #  **<p align="center">Análisis del Indice Standard & Poor's 500</p>**
 
-## Descripción del proyecto
+## Objetivo del proyecto
 El proyecto consiste en realizar un análisis del índice Standard & Poor's 500 (S&P 500) .....
 
 ## Descripción del proyecto
@@ -42,8 +42,6 @@ El objetivo general de este proyecto es ....
     11- Servicios Públicos.
 
 
-
-
 Se realizó como **Producto Minimo Viable** ....
 
 **Análisis historico del Indice S&P 500 y el Indice VIX**
@@ -56,29 +54,20 @@ Se realizó como **Producto Minimo Viable** ....
 **Modelo de Machine learning**
 - xxxx....
 
-
-
-### ** Dashboard de Producto Mínimo Viable.**
-### Entra al Dashboard interactivo en este [enlace](enlaceapowerbi)
-<img src="Imagenes\powerbi.jpeg" width="1010" height="500">
-
-### ** Monetización del Proyecto.**
-
-
 ## Colaboradores
 
 **Grupo s17-18-m-data-bi:**
-  - **Gloria Nabor:**  Product owner [Linkedin](https://www.linkedin.com/in/gloria-nabor/)
-  - **Angel Troncoso:** Data analyt [Linkedin](www.linkedin.com/in/angeltroncoso) 
-  - **Juan Campos Quintana:** Completar [Linkedin](https://www.linkedin.com/in/jumacaq/)
-  - **Cecilia Aponte:** Completar [Linkedin](https://www.linkedin.com/in/ceci-aponte-data/)
-  - **Raul Almao:** Completar [Linkedin](https://www.linkedin.com/in/ralmao/)
-  - **Arelys Acevedo:**  Completar [Linkedin](https://www.linkedin.com/in/arelys-acevedo/)
+  - **Gloria Nabor:**  Project Manager [Linkedin](https://www.linkedin.com/in/gloria-nabor/)
+  - **Angel Troncoso:** Data analyst [Linkedin](www.linkedin.com/in/angeltroncoso) 
+  - **Juan Campos Quintana:** Data analyst [Linkedin](https://www.linkedin.com/in/jumacaq/)
+  - **Cecilia Aponte:** Data science [Linkedin](https://www.linkedin.com/in/ceci-aponte-data/)
+  - **Raul Almao:** Data science [Linkedin](https://www.linkedin.com/in/ralmao/)
+  - **Arelys Acevedo:**  Data analyst [Linkedin](https://www.linkedin.com/in/arelys-acevedo/)
   - **Fabio Maculus:** Data Analyst [Linkedin](https://www.linkedin.com/in/fabio-maculus-data-analyst/)
   - **Hernán Pizarro:** Business Intelligence [Linkedin](https://www.linkedin.com/in/hern%C3%A1n-pizarro-683679268/) 
 
 **No Country:**
- - Alan xxx: Team Leader [Linkedin]()
+ - Alan Rojas: Team Leader [Linkedin](https://www.linkedin.com/in/alan-rojas-polanco-97a4b5291/)
 
 
 ## Tecnologías utilizadas
