@@ -4,8 +4,8 @@
 
 #  **<p align="center">Análisis del Indice Standard & Poor's 500</p>**
 
-## Objetivo del proyecto
-El proyecto consiste en realizar un análisis del índice Standard & Poor's 500 (S&P 500) .....
+## Objetivo
+Este proyecto busca desarrollar una herramienta de análisis de inversiones para personas de 35 a 45 años que buscan alternativas a su jubilación o a un plazo fijo. Enfocado en inversionistas fuera de EE.UU. con conocimientos básicos en finanzas, la herramienta se centrará en el S&P 500, ayudando a decidir entre inversión a corto o largo plazo. 
 
 ## Descripción del proyecto
 
