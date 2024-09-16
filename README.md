@@ -67,7 +67,7 @@ Se realizó como **Producto Minimo Viable** ....
   - **Hernán Pizarro:** Business Intelligence [`Linkedin`](https://www.linkedin.com/in/hern%C3%A1n-pizarro-683679268/) 
 
 **No Country:**
- - Alan Rojas: Team Leader [Linkedin](https://www.linkedin.com/in/alan-rojas-polanco-97a4b5291/)
+ - **Alan Rojas:** Team Leader [`Linkedin`](https://www.linkedin.com/in/alan-rojas-polanco-97a4b5291/)
 
 
 ## Tecnologías utilizadas
@@ -84,6 +84,7 @@ Se realizó como **Producto Minimo Viable** ....
 - Dashboard: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTIwYTRiYTEtNTgyMi00ZGVhLThlMzEtYmI4NDk5MzQ1ZDI1IiwidCI6IjEwYWE5MTJkLTJjNzYtNGI5YS1iZmI2LWJkNGQ0Nzk5MTUwNiIsImMiOjR9&pageName=9a9665ed52580701a34c) "ACTUALIZAR"
 - Datasets: [SPY 500, VIX y las 503 empresas](https://finance.yahoo.com/)
 - Requisitos del proyecto: [No Country](https://drive.google.com/drive/folders/1kH9YZNrl84T8EldJYO_1q81jJXVeh6aq)
+- Bot xxx : incorpar nombre y link
 
 ##  Disclaimer
 
