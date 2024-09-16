@@ -7,7 +7,7 @@
 ## Descripción del proyecto
 El proyecto consiste en realizar un análisis del índice Standard & Poor's 500 (S&P 500) .....
 
-## ** Descripción del proyecto.**
+## Descripción del proyecto
 
 El objetivo general de este proyecto es ....
 
@@ -65,23 +65,23 @@ Se realizó como **Producto Minimo Viable** ....
 ### ** Monetización del Proyecto.**
 
 
-### ** Colaboradores.**
+## Colaboradores
 
 **Grupo s17-18-m-data-bi:**
-  - Gloria Nabor:  Product owner [Linkedin](https://www.linkedin.com/in/gloria-nabor/)
-  - Angel Troncoso: Data analyt [Linkedin](www.linkedin.com/in/angeltroncoso) 
-  - Juan Campos Quintana: Completar [Linkedin](https://www.linkedin.com/in/jumacaq/)
-  - Cecilia Aponte: Completar [Linkedin](https://www.linkedin.com/in/ceci-aponte-data/)
-  - Raul Almao: Completar [Linkedin](https://www.linkedin.com/in/ralmao/)
-  - Arelys Acevedo:  Completar [Linkedin](https://www.linkedin.com/in/arelys-acevedo/)
-  - Fabio Maculus: Data Analyst [Linkedin](https://www.linkedin.com/in/fabio-maculus-data-analyst/)
-  - Hernán Pizarro: Business Intelligence [Linkedin](https://www.linkedin.com/in/hern%C3%A1n-pizarro-683679268/) 
+  - **Gloria Nabor:**  Product owner [Linkedin](https://www.linkedin.com/in/gloria-nabor/)
+  - **Angel Troncoso:** Data analyt [Linkedin](www.linkedin.com/in/angeltroncoso) 
+  - **Juan Campos Quintana:** Completar [Linkedin](https://www.linkedin.com/in/jumacaq/)
+  - **Cecilia Aponte:** Completar [Linkedin](https://www.linkedin.com/in/ceci-aponte-data/)
+  - **Raul Almao:** Completar [Linkedin](https://www.linkedin.com/in/ralmao/)
+  - **Arelys Acevedo:**  Completar [Linkedin](https://www.linkedin.com/in/arelys-acevedo/)
+  - **Fabio Maculus:** Data Analyst [Linkedin](https://www.linkedin.com/in/fabio-maculus-data-analyst/)
+  - **Hernán Pizarro:** Business Intelligence [Linkedin](https://www.linkedin.com/in/hern%C3%A1n-pizarro-683679268/) 
 
 **No Country:**
  - Alan xxx: Team Leader [Linkedin]()
 
 
-## ** Tecnologías utilizadas.**
+## Tecnologías utilizadas
 - **Power BI :**  Para la visualización y análisis de datos.
 - **Git || GitHub || GitHub Pages :**  Para el control de versiones y colaboración en el proyecto.
 - **Trello :**  Para la gestión de tareas y documentación.
@@ -91,12 +91,12 @@ Se realizó como **Producto Minimo Viable** ....
 - **Google Drive** : para.....
 
 
-### ** Enlaces del Proyecto.**
-- Dashboard: [Power BI](xxx)
-- Datasets: [SPY 500, VIX y las 503 empresas](xxx)
+## Enlaces del Proyecto
+- Dashboard: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTIwYTRiYTEtNTgyMi00ZGVhLThlMzEtYmI4NDk5MzQ1ZDI1IiwidCI6IjEwYWE5MTJkLTJjNzYtNGI5YS1iZmI2LWJkNGQ0Nzk5MTUwNiIsImMiOjR9&pageName=9a9665ed52580701a34c) "ACTUALIZAR"
+- Datasets: [SPY 500, VIX y las 503 empresas](https://finance.yahoo.com/)
 - Requisitos del proyecto: [No Country](https://drive.google.com/drive/folders/1kH9YZNrl84T8EldJYO_1q81jJXVeh6aq)
 
-### ** Disclaimer.**
+##  Disclaimer
 
 La información y los datos presentados en este documento tienen fines informativos y educativos únicamente. No constituyen una recomendación de inversión, asesoría financiera, o sugerencia para la compra o venta de cualquier activo financiero. 
 
