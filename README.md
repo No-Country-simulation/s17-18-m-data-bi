@@ -68,9 +68,13 @@ Se realizó como **Producto Minimo Viable** ....
 ### **4- Colaboradores.**
 
 **Grupo s17-18-m-data-bi:**
-  - Gloria Nabor:  Product owner [Linkedin]()
+  - Gloria Nabor:  Product owner [Linkedin](https://www.linkedin.com/in/gloria-nabor/)
   - Angel Troncoso: Data analyt [Linkedin](www.linkedin.com/in/angeltroncoso) 
-  - xxx xxx: Data scientist [Linkedin]()
+  - Juan Campos Quintana: Completar [Linkedin](https://www.linkedin.com/in/jumacaq/)
+  - Cecilia Aponte: Completar [Linkedin](https://www.linkedin.com/in/ceci-aponte-data/)
+  - Raul Almao: Completar [Linkedin](https://www.linkedin.com/in/ralmao/)
+  - Arelys Acevedo:  Completar [Linkedin](https://www.linkedin.com/in/arelys-acevedo/)
+  - Fabio Maculus: Data Analyst [Linkedin](https://www.linkedin.com/in/fabio-maculus-data-analyst/)
   - Hernán Pizarro: Business Intelligence [Linkedin](https://www.linkedin.com/in/hern%C3%A1n-pizarro-683679268/) 
 
 **No Country:**
