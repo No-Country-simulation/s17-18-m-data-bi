@@ -51,7 +51,7 @@ Se realizó como **Producto Minimo Viable** ....
 <img src="Imagenes\vix_95al24.jpg" width="1010" height="430">
 
 **Bot de recomendacion de compra y venta**
-- bot de recomendación de acciones. Obtiene predicciones precisas y personalizadas para maximizar tus inversiones con Python y Streamlit.
+- Bot de recomendación de acciones. Obtiene predicciones precisas y personalizadas para maximizar tus inversiones con Python y Streamlit.
 - 
 **Modelo de Machine learning**
 - xxxx....
