@@ -81,10 +81,10 @@ Se realizó como **Producto Minimo Viable** ....
 
 
 ## Enlaces del Proyecto
-- Dashboard: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTIwYTRiYTEtNTgyMi00ZGVhLThlMzEtYmI4NDk5MzQ1ZDI1IiwidCI6IjEwYWE5MTJkLTJjNzYtNGI5YS1iZmI2LWJkNGQ0Nzk5MTUwNiIsImMiOjR9&pageName=9a9665ed52580701a34c) "ACTUALIZAR"
-- Datasets: [SPY 500, VIX y las 503 empresas](https://finance.yahoo.com/)
-- Requisitos del proyecto: [No Country](https://drive.google.com/drive/folders/1kH9YZNrl84T8EldJYO_1q81jJXVeh6aq)
-- Bot xxx : incorpar nombre y link
+- Dashboard: [`Power BI`](https://app.powerbi.com/view?r=eyJrIjoiYTIwYTRiYTEtNTgyMi00ZGVhLThlMzEtYmI4NDk5MzQ1ZDI1IiwidCI6IjEwYWE5MTJkLTJjNzYtNGI5YS1iZmI2LWJkNGQ0Nzk5MTUwNiIsImMiOjR9&pageName=9a9665ed52580701a34c) "ACTUALIZAR"
+- Datasets: [`SPY 500, VIX y las 503 empresas`](https://finance.yahoo.com/)
+- Requisitos del proyecto: [`No Country`](https://drive.google.com/drive/folders/1kH9YZNrl84T8EldJYO_1q81jJXVeh6aq)
+- Bot xxx : incorpar nombre y link [`Nombre`]()
 
 ##  Disclaimer
 
