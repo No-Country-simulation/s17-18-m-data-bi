@@ -51,8 +51,8 @@ Se realizó como **Producto Minimo Viable** ....
 <img src="Imagenes\vix_95al24.jpg" width="1010" height="430">
 
 **Bot de recomendacion de compra y venta**
-- xx....
-
+- bot de recomendación de acciones. Obtiene predicciones precisas y personalizadas para maximizar tus inversiones con Python y Streamlit.
+- 
 **Modelo de Machine learning**
 - xxxx....
 
@@ -69,7 +69,7 @@ Se realizó como **Producto Minimo Viable** ....
 
 **Grupo s17-18-m-data-bi:**
   - Gloria Nabor:  Product owner [Linkedin]()
-  - xxx xxx: Data analyt [Linkedin]() 
+  - Angel Troncoso: Data analyt [Linkedin](www.linkedin.com/in/angeltroncoso) 
   - xxx xxx: Data scientist [Linkedin]()
   - Hernán Pizarro: Business Intelligence [Linkedin](https://www.linkedin.com/in/hern%C3%A1n-pizarro-683679268/) 
 
@@ -81,6 +81,9 @@ Se realizó como **Producto Minimo Viable** ....
 - Herramientas de visualización: Power BI.
 - Lenguajes de Programación: Python.
 - Nube: Drive.
+- Streamlit.
+- Python.
+- 
 
 
 ### **6- Enlaces del Proyecto.**
