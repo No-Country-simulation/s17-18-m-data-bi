@@ -4,10 +4,10 @@
 
 #  **<p align="center">Análisis del Indice Standard & Poor's 500</p>**
 
-### Presentación
+## Descripción del proyecto
 El proyecto consiste en realizar un análisis del índice Standard & Poor's 500 (S&P 500) .....
 
-### **1- Descripción del proyecto.**
+## ** Descripción del proyecto.**
 
 El objetivo general de este proyecto es ....
 
@@ -58,14 +58,14 @@ Se realizó como **Producto Minimo Viable** ....
 
 
 
-### **2- Dashboard de Producto Mínimo Viable.**
+### ** Dashboard de Producto Mínimo Viable.**
 ### Entra al Dashboard interactivo en este [enlace](enlaceapowerbi)
 <img src="Imagenes\powerbi.jpeg" width="1010" height="500">
 
-### **3- Monetización del Proyecto.**
+### ** Monetización del Proyecto.**
 
 
-### **4- Colaboradores.**
+### ** Colaboradores.**
 
 **Grupo s17-18-m-data-bi:**
   - Gloria Nabor:  Product owner [Linkedin](https://www.linkedin.com/in/gloria-nabor/)
@@ -81,21 +81,22 @@ Se realizó como **Producto Minimo Viable** ....
  - Alan xxx: Team Leader [Linkedin]()
 
 
-### **5- Tecnologías utilizadas.**
-- Herramientas de visualización: Power BI.
-- Lenguajes de Programación: Python.
-- Nube: Drive.
-- Streamlit.
-- Python.
-- 
+## ** Tecnologías utilizadas.**
+- **Power BI :**  Para la visualización y análisis de datos.
+- **Git || GitHub || GitHub Pages :**  Para el control de versiones y colaboración en el proyecto.
+- **Trello :**  Para la gestión de tareas y documentación.
+- **Slack :**  Para la comunicación y coordinación del equipo.
+- **Python :**  Para .....
+- **Streamlit :**  Para ....
+- **Google Drive** : para.....
 
 
-### **6- Enlaces del Proyecto.**
+### ** Enlaces del Proyecto.**
 - Dashboard: [Power BI](xxx)
 - Datasets: [SPY 500, VIX y las 503 empresas](xxx)
 - Requisitos del proyecto: [No Country](https://drive.google.com/drive/folders/1kH9YZNrl84T8EldJYO_1q81jJXVeh6aq)
 
-### **7- Disclaimer.**
+### ** Disclaimer.**
 
 La información y los datos presentados en este documento tienen fines informativos y educativos únicamente. No constituyen una recomendación de inversión, asesoría financiera, o sugerencia para la compra o venta de cualquier activo financiero. 
 
