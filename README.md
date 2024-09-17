@@ -8,7 +8,7 @@
 ## Introducción
 Las pensiones públicas suelen ser bajas e insuficientes para cubrir todos los gastos de necesidades básicas, como vivienda, alimentación y atención médica. La falta de fondos también puede limitar la capacidad de disfrutar de actividades recreativas y de mantener un estilo de vida activo y saludable.
 
-El **objetivo de este proyecto** es desarrollar una herramienta de análisis de inversiones basados en el SPY, para personas de 25 a 50 años que buscan alternativas a su jubilación, plazo fijo o caja de ahorro.
+El **objetivo de este proyecto** es desarrollar una herramienta de análisis de inversiones basados en el SPY, para personas de 25 a 50 años que buscan alternativas a su jubilación, plazo fijo o caja de ahorro. Con un perido de invesión a largo plazo a partir de 15 a 20 años.
 
 ## Descripción del proyecto
 Nuestro proyecto se basa en el análisis del fondo **SPDR S&P 500 ETF Trust** creado en 1993, ofrece resultados según el índice S&P 500, que incluye empresas de gran capitalización de los 11 sectores (Consumo Discrecional, Consumo Básico, Energía, Financiero, Salud, Industria, Tecnología de la Información, Materiales, Inmobiliario, Servicios de Comunicación y Servicios Públicos). Su divisa base es el dólar y lo gestiona SSGA Funds Management, Inc. Las acciones del fondo se cotizan en la **Bolsa de Valores de Nueva York** bajo el **símbolo bursátil SPY**.
