@@ -71,14 +71,15 @@ Se realizó como **Producto Minimo Viable** ....
  - **Alan Rojas:** Team Leader [`Linkedin`](https://www.linkedin.com/in/alan-rojas-polanco-97a4b5291/)
 
 
-## Tecnologías utilizadas
-- **Power BI :**  Para la visualización y análisis de datos.
-- **Git || GitHub || GitHub Pages :**  Para el control de versiones y colaboración en el proyecto.
-- **Trello :**  Para la gestión de tareas y documentación.
-- **Slack :**  Para la comunicación y coordinación del equipo.
-- **Python :**  Para .....
-- **Streamlit :**  Para ....
-- **Google Drive** : para.....
+## Tecnologías
+- Lenguajes de Programación: Python.
+- Visualización de Datos: Power BI, Streamlit.
+- Herramienta de Gestión de Proyectos: Trello.
+- Desarrollo Colaborativo y Control de Versiones: GitHub y Colab.
+- Slack: Comunicación diaria del equipo y colaboración en tiempo real.
+- Google Meet: Reuniones diarias, planificación de sprint y coordinación de trabajo.
+- WhatsApp: Comunicación instantánea para cuestiones urgentes.
+- Google Drive: Almacenamiento de documentación.
 
 
 ## Enlaces del Proyecto
