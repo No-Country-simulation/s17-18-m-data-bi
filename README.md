@@ -2,7 +2,7 @@
 
 <img src="Imagenes\SP500.jpg" width="1010" height="300">
 
-#  **<p align="center">Análisis del Indice Standard & Poor's 500</p>**
+#  **<p align="center">INVERSION EN EL SPY, COMO ALTERNATIVA PARA UN FONDO DE RETIRO</p>**
 
 ## Objetivo
 Este proyecto busca desarrollar una herramienta de análisis de inversiones para personas de 35 a 45 años que buscan alternativas a su jubilación o a un plazo fijo. Enfocado en inversionistas fuera de EE.UU. con conocimientos básicos en finanzas, la herramienta se centrará en el S&P 500, ayudando a decidir entre inversión a corto o largo plazo. 
