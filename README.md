@@ -30,10 +30,8 @@ Se realizó como **Producto Minimo Viable** un análisis historico del SPY desde
 ## Colaboradores
 
 **Grupo s17-18-m-data-bi:**
-
-**Grupo s17-18-m-data-bi:**
-  - **Gloria Nabor:**  Project Manager [`Linkedin`](https://www.linkedin.com/in/gloria-nabor/) [`Github`](http://github.com/Gloria-Nabor)
-  - **Angel Troncoso:** Data analyst [`Linkedin`](www.linkedin.com/in/angeltroncoso) [`Github`](https://github.com/AngelTroncoso)
+  - **Gloria Nabor:**  Project Manager [`Linkedin`](https://www.linkedin.com/in/gloria-nabor/), [`Github`](http://github.com/Gloria-Nabor)
+  - **Angel Troncoso:** Data analyst [`Linkedin`](www.linkedin.com/in/angeltroncoso), [`Github`](https://github.com/AngelTroncoso)
   - **Juan Campos Quintana:** Data analyst [`Linkedin`](https://www.linkedin.com/in/jumacaq/), [`Github`](http://github.com/jumacaq)
   - **Cecilia Aponte:** Data science [`Linkedin`](https://www.linkedin.com/in/ceci-aponte-data/), [`Github`](https://github.com/CCAponte)
   - **Raul Almao:** Data science [`Linkedin`](https://www.linkedin.com/in/ralmao/),[`Github`](https://github.com/Ralmao)
@@ -48,7 +46,7 @@ Se realizó como **Producto Minimo Viable** un análisis historico del SPY desde
 ## Tecnologías
 - Lenguajes de Programación: Python.
 - Visualización de Datos: Power BI, Streamlit.
-- Herramienta de Gestión de Proyectos: Trello.
+- Herramienta de Gestión de Proyectos: [`Trello`] (https://trello.com/invite/b/66cd3c02fac81073b6752532/ATTI1258aad3b3bb787408fc3314244223832BFE00CD/s17-18-m-data-bi)
 - Desarrollo Colaborativo y Control de Versiones: GitHub y Colab.
 - Slack: Comunicación diaria del equipo y colaboración en tiempo real.
 - Google Meet: Reuniones diarias, planificación de sprint y coordinación de trabajo.
