@@ -2,7 +2,7 @@
 
 <img src="Imagenes\SP500.jpg" width="1010" height="300">
 
-#  **<p align="center">INVERSION EN EL SPY</p>** 
+#  **<p align="center">INVERSIÓN EN EL SPY</p>** 
 ##  **<p align="center">COMO ALTERNATIVA PARA UN FONDO DE RETIRO</p>**
 
 ## Introducción
@@ -11,51 +11,22 @@ Las pensiones públicas suelen ser bajas e insuficientes para cubrir todos los g
 El **objetivo de este proyecto** es desarrollar una herramienta de análisis de inversiones basados en el SPY, para personas de 25 a 50 años que buscan alternativas a su jubilación, plazo fijo o caja de ahorro.
 
 ## Descripción del proyecto
+Nuestro proyecto se basa en el análisis del fondo **SPDR S&P 500 ETF Trust** creado en 1993, ofrece resultados según el índice S&P 500, que incluye empresas de gran capitalización de los 11 sectores (Consumo Discrecional, Consumo Básico, Energía, Financiero, Salud, Industria, Tecnología de la Información, Materiales, Inmobiliario, Servicios de Comunicación y Servicios Públicos). Su divisa base es el dólar y lo gestiona SSGA Funds Management, Inc. Las acciones del fondo se cotizan en la **Bolsa de Valores de Nueva York** bajo el **símbolo bursátil SPY**.
 
-El objetivo general de este proyecto es ....
-
-- El indice refleja el estado de la economia de Estados Unidos y por ende la economia mundial.
-
-- Este indice representa las 500 empresas estadounidenses mas grandes seleccionadas por su tamaño, liquidez y representatividad por actividad económica.
-
-- Los componentes del S&P 500 se dividen en 11 sectores, según la actividad económica que cada una realiza. Habitualmente, cada sector evoluciona de distinta manera dependiendo del estado general de la economía.
-
-- Las compañías que componen el índice S&P 500 están estructuradas en 11 sectores:
-
-    1- Consumo Discrecional.
-
-    2- Consumo Básico.
-
-    3- Energía.
-
-    4- Financiero.
-
-    5- Salud.
-
-    6- Industria.
-
-    7- Tecnología de la Información.
-
-    8- Materiales.
-
-    9- Inmobiliario.
-
-    10- Servicios de Comunicación.
-
-    11- Servicios Públicos.
+Este índice es ampliamente considerado como un indicador clave de la salud económica y del mercado de valores estadounidense.
 
 
-Se realizó como **Producto Minimo Viable** ....
+Se realizó como **Producto Minimo Viable** un análisis historico del SPY desde el año 1995 al 2023, Bot de recomendación de inveresión y un modelo de machine learning del rendimiento a futuro.
 
-**Análisis historico del Indice S&P 500 y el Indice VIX**
+**Análisis historico del Indice SPY**
 - xx....
 <img src="Imagenes\vix_95al24.jpg" width="1010" height="430">
 
-**Bot de recomendacion de compra y venta**
-- Bot de recomendación de acciones. Obtiene predicciones precisas y personalizadas para maximizar tus inversiones con Python y Streamlit.
+**Bot de recomendacion de compra y venta del SYP**
+- Bot de recomendación ... CONSULTAR A JUAN
 - 
 **Modelo de Machine learning**
-- xxxx....
+- xxxx.... CONSULTAR A RAUL
 
 ## Colaboradores
 
