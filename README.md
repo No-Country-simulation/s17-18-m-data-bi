@@ -46,7 +46,7 @@ Se realizó como **Producto Minimo Viable** un análisis historico del SPY desde
 ## Tecnologías
 - Lenguajes de Programación: Python.
 - Visualización de Datos: Power BI, Streamlit.
-- Herramienta de Gestión de Proyectos: [`Trello`] (https://trello.com/invite/b/66cd3c02fac81073b6752532/ATTI1258aad3b3bb787408fc3314244223832BFE00CD/s17-18-m-data-bi)
+- Herramienta de Gestión de Proyectos: [`Trello`](https://trello.com/invite/b/66cd3c02fac81073b6752532/ATTI1258aad3b3bb787408fc3314244223832BFE00CD/s17-18-m-data-bi)
 - Desarrollo Colaborativo y Control de Versiones: GitHub y Colab.
 - Slack: Comunicación diaria del equipo y colaboración en tiempo real.
 - Google Meet: Reuniones diarias, planificación de sprint y coordinación de trabajo.
