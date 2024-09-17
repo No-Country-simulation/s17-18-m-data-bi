@@ -20,7 +20,6 @@ Se realizó como **Producto Minimo Viable** un análisis historico del SPY desde
 
 **Análisis historico del Indice SPY**
 - xx....
-<img src="Imagenes\vix_95al24.jpg" width="1010" height="430">
 
 **Bot de recomendacion de compra y venta del SYP**
 - Bot de recomendación ... CONSULTAR A JUAN
