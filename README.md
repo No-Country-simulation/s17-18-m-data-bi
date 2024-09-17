@@ -5,8 +5,10 @@
 #  **<p align="center">INVERSION EN EL SPY</p>** 
 ##  **<p align="center">COMO ALTERNATIVA PARA UN FONDO DE RETIRO</p>**
 
-## Objetivo
-Este proyecto busca desarrollar una herramienta de análisis de inversiones para personas de 35 a 45 años que buscan alternativas a su jubilación o a un plazo fijo. Enfocado en inversionistas fuera de EE.UU. con conocimientos básicos en finanzas, la herramienta se centrará en el S&P 500, ayudando a decidir entre inversión a corto o largo plazo. 
+## Introducción
+Las pensiones públicas suelen ser bajas e insuficientes para cubrir todos los gastos de necesidades básicas, como vivienda, alimentación y atención médica. La falta de fondos también puede limitar la capacidad de disfrutar de actividades recreativas y de mantener un estilo de vida activo y saludable.
+
+El **objetivo de este proyecto** es desarrollar una herramienta de análisis de inversiones basados en el SPY, para personas de 25 a 50 años que buscan alternativas a su jubilación, plazo fijo o caja de ahorro.
 
 ## Descripción del proyecto
 
