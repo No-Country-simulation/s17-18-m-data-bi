@@ -23,6 +23,7 @@ Se realizó como **Producto Minimo Viable** un análisis historico del SPY desde
 
 **Bot de recomendacion de compra y venta del SYP**
 - Bot de recomendación ... CONSULTAR A JUAN
+- [Bot trading](https://robot-trading.streamlit.app/)
 - 
 **Modelo de Machine learning**
 - xxxx.... CONSULTAR A RAUL
@@ -58,10 +59,9 @@ Se realizó como **Producto Minimo Viable** un análisis historico del SPY desde
 - Dashboard: [`Power BI`](https://app.powerbi.com/view?r=eyJrIjoiYTIwYTRiYTEtNTgyMi00ZGVhLThlMzEtYmI4NDk5MzQ1ZDI1IiwidCI6IjEwYWE5MTJkLTJjNzYtNGI5YS1iZmI2LWJkNGQ0Nzk5MTUwNiIsImMiOjR9&pageName=9a9665ed52580701a34c) "ACTUALIZAR"
 - Datasets: [`SPY 500, VIX y las 503 empresas`](https://finance.yahoo.com/)
 - Requisitos del proyecto: [`No Country`](https://drive.google.com/drive/folders/1kH9YZNrl84T8EldJYO_1q81jJXVeh6aq)
-- Bot xxx : incorpar nombre y link [`Nombre`]()
 
 ##  Disclaimer
 
-La información y los datos presentados en este documento tienen fines informativos y educativos únicamente. No constituyen una recomendación de inversión, asesoría financiera, o sugerencia para la compra o venta de cualquier activo financiero. 
+La información y los datos presentados en este **documento tienen fines informativos y educativos** únicamente. No constituyen una recomendación de inversión, asesoría financiera, o sugerencia para la compra o venta de cualquier activo financiero. 
 
-Antes de tomar cualquier decisión de inversión, se recomienda consultar con un asesor financiero profesional que tenga en cuenta su situación financiera particular, objetivos de inversión y tolerancia al riesgo. Cualquier acción que realice basándose en la información contenida en este documento es bajo su propia responsabilidad.
+Antes de tomar cualquier decisión de inversión, se recomienda **consultar con un asesor financiero profesional** que tenga en cuenta su situación financiera particular, objetivos de inversión y tolerancia al riesgo. Cualquier acción que realice basándose en la información contenida en este documento es bajo su propia responsabilidad.
