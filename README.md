@@ -26,7 +26,7 @@ Se realizó como **Producto Minimo Viable** un análisis historico del SPY desde
 - [Bot trading](https://robot-trading.streamlit.app/)
 - 
 **Modelo de Machine learning**
-- xxxx.... CONSULTAR A RAUL
+- Un modelo de redes neuronales es crucial para predecir el precio del S&P 500 en los próximos 15 años, ya que permite captar patrones no lineales complejos en los datos históricos y proyectar tendencias futuras. Su capacidad de adaptación y aprendizaje continuo lo convierte en una herramienta poderosa para la toma de decisiones financieras a largo plazo.
 
 ## Colaboradores
 
