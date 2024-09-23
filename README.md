@@ -20,7 +20,7 @@ Se realizó como **Producto Minimo Viable** un análisis historico del SPY desde
 
 **Análisis historico del Indice SPY**
 - Rendimiento del SPY desde el año 1995 al 2023.
-<img src="Imagenes\spy95_23.jpg" width="1010" height="300">
+<img src="Imagenes\spy95_23.jpg" width="1010" height="400">
 
 **Bot de recomendacion de compra y venta del SYP**
 - Es un aplicativo desarrollado con Python y desplegado en Streamlit que brinda recomendaciones de compra/venta del ETF tanto del índice SP500 como de las 7 compañías que tienen mayor peso en la ponderación de dicho índice, la información de los activos se obtiene del portal [`Yahoo Finance`](https://finance.yahoo.com/)
