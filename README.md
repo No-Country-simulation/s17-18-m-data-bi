@@ -1,6 +1,6 @@
 **<p align="center">Proyecto de Data-BI de No Country . s17-18-m-data-bi</p>**
 
-<img src="Imagenes\SP500.jpg" width="1010" height="300">
+<img src="Imagenes\SP500.jpg" width="1010" height="400">
 
 #  **<p align="center">INVERSIÓN EN EL SPY</p>** 
 ##  **<p align="center">COMO ALTERNATIVA PARA UN FONDO DE RETIRO</p>**
@@ -19,7 +19,8 @@ Este índice es ampliamente considerado como un indicador clave de la salud econ
 Se realizó como **Producto Minimo Viable** un análisis historico del SPY desde el año 1995 al 2023, Bot de recomendación de inveresión y un modelo de machine learning del rendimiento a futuro.
 
 **Análisis historico del Indice SPY**
-- xx....
+- Rendimiento del SPY desde el año 1995 al 2023.
+<img src="Imagenes\spy95_23.jpg" width="1010" height="300">
 
 **Bot de recomendacion de compra y venta del SYP**
 - Es un aplicativo desarrollado con Python y desplegado en Streamlit que brinda recomendaciones de compra/venta del ETF tanto del índice SP500 como de las 7 compañías que tienen mayor peso en la ponderación de dicho índice, la información de los activos se obtiene del portal [`Yahoo Finance`](https://finance.yahoo.com/)
