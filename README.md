@@ -33,16 +33,16 @@ Se realizó como **Producto Minimo Viable** un análisis historico del SPY desde
 
 **Grupo s17-18-m-data-bi:**
   - **Gloria Nabor:**  Project Manager [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gloria-nabor/), [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](http://github.com/Gloria-Nabor)
-  - **Angel Troncoso:** Data analyst [`Linkedin`](www.linkedin.com/in/angeltroncoso), [`Github`](https://github.com/AngelTroncoso)
-  - **Juan Campos Quintana:** Data analyst [`Linkedin`](https://www.linkedin.com/in/jumacaq/), [`Github`](http://github.com/jumacaq)
-  - **Cecilia Aponte:** Data science [`Linkedin`](https://www.linkedin.com/in/ceci-aponte-data/), [`Github`](https://github.com/CCAponte)
-  - **Raul Almao:** Data science [`Linkedin`](https://www.linkedin.com/in/ralmao/),[`Github`](https://github.com/Ralmao)
-  - **Arelys Acevedo:**  Data analyst [`Linkedin`](https://www.linkedin.com/in/arelys-acevedo/), [`Github`](http://github.com/acad2018)
-  - **Fabio Maculus:** Data Analyst [`Linkedin`](https://www.linkedin.com/in/fabio-maculus-data-analyst/),[`Github`](https://github.com/Macu-Data)
-  - **Hernán Pizarro:** Business Intelligence [`Linkedin`](https://www.linkedin.com/in/hern%C3%A1n-pizarro-683679268/), [`Github`](http://github.com/Hern4nOckham) 
+  - **Angel Troncoso:** Data analyst [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/angeltroncoso), [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/AngelTroncoso)
+  - **Juan Campos Quintana:** Data analyst [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jumacaq/), [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](http://github.com/jumacaq)
+  - **Cecilia Aponte:** Data science [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ceci-aponte-data/), [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/CCAponte)
+  - **Raul Almao:** Data science [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ralmao/),[![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Ralmao)
+  - **Arelys Acevedo:**  Data analyst [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arelys-acevedo/), [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](http://github.com/acad2018)
+  - **Fabio Maculus:** Data Analyst [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-maculus-data-analyst/),[![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Macu-Data)
+  - **Hernán Pizarro:** Business Intelligence [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hern%C3%A1n-pizarro-683679268/), [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](http://github.com/Hern4nOckham) 
 
 **No Country:**
- - **Alan Rojas:** Team Leader [`Linkedin`](https://www.linkedin.com/in/alan-rojas-polanco-97a4b5291/)
+ - **Alan Rojas:** Team Leader [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-rojas-polanco-97a4b5291/)
 
 
 ## Tecnologías
