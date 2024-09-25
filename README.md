@@ -1,95 +1,68 @@
 **<p align="center">Proyecto de Data-BI de No Country . s17-18-m-data-bi</p>**
 
-<img src="Imagenes\SP500.jpg" width="1010" height="300">
+<img src="Imagenes\SP500.jpg" width="1010" height="400">
 
-#  **<p align="center">Análisis del Indice Standard & Poor's 500</p>**
+#  **<p align="center">INVERSIÓN EN EL SPY</p>** 
+##  **<p align="center">COMO ALTERNATIVA PARA UN FONDO DE RETIRO</p>**
 
-### Presentación
-El proyecto consiste en realizar un análisis del índice Standard & Poor's 500 (S&P 500) .....
+## Introducción
+Las pensiones públicas suelen ser bajas e insuficientes para cubrir todos los gastos de necesidades básicas, como vivienda, alimentación y atención médica. La falta de fondos también puede limitar la capacidad de disfrutar de actividades recreativas y de mantener un estilo de vida activo y saludable.
 
-### **1- Descripción del proyecto.**
+El **objetivo de este proyecto** es desarrollar una herramienta de análisis de inversiones basados en el SPY, para personas de 25 a 50 años que buscan alternativas a su jubilación, plazo fijo o caja de ahorro. Con un perido de invesión a largo plazo a partir de 15 a 20 años.
 
-El objetivo general de este proyecto es ....
+## Descripción del proyecto
+Nuestro proyecto se basa en el análisis del fondo **SPDR S&P 500 ETF Trust** creado en 1993, ofrece resultados según el índice S&P 500, que incluye empresas de gran capitalización de los 11 sectores (Consumo Discrecional, Consumo Básico, Energía, Financiero, Salud, Industria, Tecnología de la Información, Materiales, Inmobiliario, Servicios de Comunicación y Servicios Públicos). Su divisa base es el dólar y lo gestiona SSGA Funds Management, Inc. Las acciones del fondo se cotizan en la **Bolsa de Valores de Nueva York** bajo el **símbolo bursátil SPY**.
 
-- El indice refleja el estado de la economia de Estados Unidos y por ende la economia mundial.
-
-- Este indice representa las 500 empresas estadounidenses mas grandes seleccionadas por su tamaño, liquidez y representatividad por actividad económica.
-
-- Los componentes del S&P 500 se dividen en 11 sectores, según la actividad económica que cada una realiza. Habitualmente, cada sector evoluciona de distinta manera dependiendo del estado general de la economía.
-
-- Las compañías que componen el índice S&P 500 están estructuradas en 11 sectores:
-
-    1- Consumo Discrecional.
-
-    2- Consumo Básico.
-
-    3- Energía.
-
-    4- Financiero.
-
-    5- Salud.
-
-    6- Industria.
-
-    7- Tecnología de la Información.
-
-    8- Materiales.
-
-    9- Inmobiliario.
-
-    10- Servicios de Comunicación.
-
-    11- Servicios Públicos.
+Este índice es ampliamente considerado como un indicador clave de la salud económica y del mercado de valores estadounidense.
 
 
+Se realizó como **Producto Minimo Viable** un análisis historico del SPY desde el año 1995 al 2023, Bot de recomendación de inveresión y un modelo de machine learning del rendimiento a futuro.
 
+**Análisis historico del Indice SPY**
+- Rendimiento del SPY desde el año 1995 al 2023.
+<img src="Imagenes\spy95_23.jpg" width="1010" height="400">
 
-Se realizó como **Producto Minimo Viable** ....
-
-**Análisis historico del Indice S&P 500 y el Indice VIX**
-- xx....
-<img src="Imagenes\vix_95al24.jpg" width="1010" height="430">
-
-**Bot de recomendacion de compra y venta**
-- xx....
-
+**Bot de recomendacion de compra y venta del SYP**
+- Es un aplicativo desarrollado con Python y desplegado en Streamlit que brinda recomendaciones de compra/venta del ETF tanto del índice SP500 como de las 7 compañías que tienen mayor peso en la ponderación de dicho índice, la información de los activos se obtiene del portal [`Yahoo Finance`](https://finance.yahoo.com/)
+- [Bot trading](https://robot-trading.streamlit.app/)
+ 
 **Modelo de Machine learning**
-- xxxx....
+- Un modelo de redes neuronales es crucial para predecir el precio del S&P 500 en los próximos 15 años, ya que permite captar patrones no lineales complejos en los datos históricos y proyectar tendencias futuras. Su capacidad de adaptación y aprendizaje continuo lo convierte en una herramienta poderosa para la toma de decisiones financieras a largo plazo.
 
-
-
-### **2- Dashboard de Producto Mínimo Viable.**
-### Entra al Dashboard interactivo en este [enlace](enlaceapowerbi)
-<img src="Imagenes\powerbi.jpeg" width="1010" height="500">
-
-### **3- Monetización del Proyecto.**
-
-
-### **4- Colaboradores.**
+## Colaboradores
 
 **Grupo s17-18-m-data-bi:**
-  - Gloria Nabor:  Product owner [Linkedin]()
-  - xxx xxx: Data analyt [Linkedin]() 
-  - xxx xxx: Data scientist [Linkedin]()
-  - Hernán Pizarro: Business Intelligence [Linkedin](https://www.linkedin.com/in/hern%C3%A1n-pizarro-683679268/) 
+  - **Gloria Nabor:**  Project Manager [`Linkedin`](https://www.linkedin.com/in/gloria-nabor/), [`Github`](http://github.com/Gloria-Nabor)
+  - **Angel Troncoso:** Data analyst [`Linkedin`](www.linkedin.com/in/angeltroncoso), [`Github`](https://github.com/AngelTroncoso)
+  - **Juan Campos Quintana:** Data analyst [`Linkedin`](https://www.linkedin.com/in/jumacaq/), [`Github`](http://github.com/jumacaq)
+  - **Cecilia Aponte:** Data science [`Linkedin`](https://www.linkedin.com/in/ceci-aponte-data/), [`Github`](https://github.com/CCAponte)
+  - **Raul Almao:** Data science [`Linkedin`](https://www.linkedin.com/in/ralmao/),[`Github`](https://github.com/Ralmao)
+  - **Arelys Acevedo:**  Data analyst [`Linkedin`](https://www.linkedin.com/in/arelys-acevedo/), [`Github`](http://github.com/acad2018)
+  - **Fabio Maculus:** Data Analyst [`Linkedin`](https://www.linkedin.com/in/fabio-maculus-data-analyst/),[`Github`](https://github.com/Macu-Data)
+  - **Hernán Pizarro:** Business Intelligence [`Linkedin`](https://www.linkedin.com/in/hern%C3%A1n-pizarro-683679268/), [`Github`](http://github.com/Hern4nOckham) 
 
 **No Country:**
- - Alan xxx: Team Leader [Linkedin]()
+ - **Alan Rojas:** Team Leader [`Linkedin`](https://www.linkedin.com/in/alan-rojas-polanco-97a4b5291/)
 
 
-### **5- Tecnologías utilizadas.**
-- Herramientas de visualización: Power BI.
+## Tecnologías
 - Lenguajes de Programación: Python.
-- Nube: Drive.
+- Visualización de Datos: Power BI, Streamlit.
+- Herramienta de Gestión de Proyectos: [`Trello`](https://trello.com/invite/b/66cd3c02fac81073b6752532/ATTI1258aad3b3bb787408fc3314244223832BFE00CD/s17-18-m-data-bi)
+- Desarrollo Colaborativo y Control de Versiones: GitHub y Colab.
+- Slack: Comunicación diaria del equipo y colaboración en tiempo real.
+- Google Meet: Reuniones diarias, planificación de sprint y coordinación de trabajo.
+- WhatsApp: Comunicación instantánea para cuestiones urgentes.
+- Google Drive: Almacenamiento de documentación.
 
 
-### **6- Enlaces del Proyecto.**
-- Dashboard: [Power BI](xxx)
-- Datasets: [SPY 500, VIX y las 503 empresas](xxx)
-- Requisitos del proyecto: [No Country](https://drive.google.com/drive/folders/1kH9YZNrl84T8EldJYO_1q81jJXVeh6aq)
+## Enlaces del Proyecto
+- Dashboard: [`Power BI`](https://app.powerbi.com/view?r=eyJrIjoiYTIwYTRiYTEtNTgyMi00ZGVhLThlMzEtYmI4NDk5MzQ1ZDI1IiwidCI6IjEwYWE5MTJkLTJjNzYtNGI5YS1iZmI2LWJkNGQ0Nzk5MTUwNiIsImMiOjR9&pageName=9a9665ed52580701a34c) "ACTUALIZAR"
+- Datasets: [`SPY 500, VIX y las 503 empresas`](https://finance.yahoo.com/)
+- Requisitos del proyecto: [`No Country`](https://drive.google.com/drive/folders/1kH9YZNrl84T8EldJYO_1q81jJXVeh6aq)
 
-### **7- Disclaimer.**
+##  Disclaimer
 
-La información y los datos presentados en este documento tienen fines informativos y educativos únicamente. No constituyen una recomendación de inversión, asesoría financiera, o sugerencia para la compra o venta de cualquier activo financiero. 
+La información y los datos presentados en este **documento tienen fines informativos y educativos** únicamente. No constituyen una recomendación de inversión, asesoría financiera, o sugerencia para la compra o venta de cualquier activo financiero. 
 
-Antes de tomar cualquier decisión de inversión, se recomienda consultar con un asesor financiero profesional que tenga en cuenta su situación financiera particular, objetivos de inversión y tolerancia al riesgo. Cualquier acción que realice basándose en la información contenida en este documento es bajo su propia responsabilidad.
+Antes de tomar cualquier decisión de inversión, se recomienda **consultar con un asesor financiero profesional** que tenga en cuenta su situación financiera particular, objetivos de inversión y tolerancia al riesgo. Cualquier acción que realice basándose en la información contenida en este documento es bajo su propia responsabilidad.
