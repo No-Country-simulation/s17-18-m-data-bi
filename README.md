@@ -47,7 +47,7 @@ Se realizó como **Producto Minimo Viable** un análisis historico del SPY desde
 
 ## Tecnologías
 - **Python:** Lenguaje de programación utilizado para análisis de datos y desarrollo de aplicaciones.
-- **Power BI:** Visualización de Datos. [Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=white)
+- **Power BI:** Visualización de Datos. [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=white)(https://app.powerbi.com/view?r=eyJrIjoiYTIwYTRiYTEtNTgyMi00ZGVhLThlMzEtYmI4NDk5MzQ1ZDI1IiwidCI6IjEwYWE5MTJkLTJjNzYtNGI5YS1iZmI2LWJkNGQ0Nzk5MTUwNiIsImMiOjR9&pageName=9a9665ed52580701a34c)
 - **Streamlit:**  Plataforma para la creación de aplicaciones web interactivas a partir de scripts de Python. [Streamlit](https://robot-trading.streamlit.app/)
 - **Trello:** Herramienta de Gestión de Proyectos: [Trello](https://trello.com/invite/b/66cd3c02fac81073b6752532/ATTI1258aad3b3bb787408fc3314244223832BFE00CD/s17-18-m-data-bi)
 - **GitHub y Colab:** Desarrollo Colaborativo y Control de Versiones. 
