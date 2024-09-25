@@ -24,7 +24,7 @@ Se realizó como **Producto Minimo Viable** un análisis historico del SPY desde
 
 **Bot de recomendacion de compra y venta del SYP**
 - Es un aplicativo desarrollado con Python y desplegado en Streamlit que brinda recomendaciones de compra/venta del ETF tanto del índice SP500 como de las 7 compañías que tienen mayor peso en la ponderación de dicho índice, la información de los activos se obtiene del portal [`Yahoo Finance`](https://finance.yahoo.com/)
-- [Bot trading](https://robot-trading.streamlit.app/)
+- [`Bot trading`](https://robot-trading.streamlit.app/)
  
 **Modelo de Machine learning**
 - Un modelo de redes neuronales es crucial para predecir el precio del S&P 500 en los próximos 15 años, ya que permite captar patrones no lineales complejos en los datos históricos y proyectar tendencias futuras. Su capacidad de adaptación y aprendizaje continuo lo convierte en una herramienta poderosa para la toma de decisiones financieras a largo plazo.
