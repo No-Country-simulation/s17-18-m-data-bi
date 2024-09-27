@@ -29,11 +29,33 @@ Se realizó como **Producto Minimo Viable** un análisis historico del SPY desde
 **Modelo de Machine learning**
 - Un modelo de redes neuronales es crucial para predecir el precio del S&P 500 en los próximos 15 años, ya que permite captar patrones no lineales complejos en los datos históricos y proyectar tendencias futuras. Su capacidad de adaptación y aprendizaje continuo lo convierte en una herramienta poderosa para la toma de decisiones financieras a largo plazo.
 
-## Colaboradores
+## 🚀 Lanzamiento
+
+- **Demo Day:** 19-Sep-2024
+
+## 📈Futuros Desarrollos
+
+El proyecto sentó las bases para su crecimiento y desarrollo continuo. 
+Se tiene previsto incorporar funcionalidades que faciliten la toma de decisiones estratégicas, destacan:
+
+-   Crear una calculadora de interés compuestos.
+-   Analizar y comparar el SPY con otros índices bursátiles.
+-   Analizar las materias primas y criptomonedas.
+-   Ajustar el modelo de machine learning.
+
+## ▶️ Video Demo 
+- **[Ver video](https://youtu.be/UdBSIED5DrI)**
+ 
+![Proyecto No Country - Inversión en el S P500](https://github.com/user-attachments/assets/d40fad5a-519c-450e-8ad4-db0332ad0728)
+
+
+
+
+## Colaboradores 💻👨‍💻👩‍💻
 
 **Grupo s17-18-m-data-bi:**
   - **Gloria Nabor:**  Project Manager [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gloria-nabor/) [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](http://github.com/Gloria-Nabor)
-  - **Angel Troncoso:** Data analyst [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/angeltroncoso) [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/AngelTroncoso)
+  - **Angel Troncoso:** Data analyst [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angeltroncoso) [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/AngelTroncoso)
   - **Juan Campos Quintana:** Data analyst [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jumacaq/) [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](http://github.com/jumacaq)
   - **Cecilia Aponte:** Data science [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ceci-aponte-data/) [![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/CCAponte)
   - **Raul Almao:** Data science [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ralmao/)[![`Github`](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Ralmao)
@@ -45,7 +67,7 @@ Se realizó como **Producto Minimo Viable** un análisis historico del SPY desde
  - **Alan Rojas:** Team Leader [![`Linkedin`](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-rojas-polanco-97a4b5291/)
 
 
-## Tecnologías
+## Tecnologías✔🛠️
 - **Python:** Lenguaje de programación utilizado para análisis de datos y desarrollo de aplicaciones.
 - **Power BI:** Visualización de Datos. [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiYTIwYTRiYTEtNTgyMi00ZGVhLThlMzEtYmI4NDk5MzQ1ZDI1IiwidCI6IjEwYWE5MTJkLTJjNzYtNGI5YS1iZmI2LWJkNGQ0Nzk5MTUwNiIsImMiOjR9&pageName=9a9665ed52580701a34c)
 - **Streamlit:**  Plataforma para la creación de aplicaciones web interactivas a partir de scripts de Python. [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://robot-trading.streamlit.app/)
@@ -57,10 +79,14 @@ Se realizó como **Producto Minimo Viable** un análisis historico del SPY desde
 - **Google Drive:** Almacenamiento y sincronización de documentación.
 
 
-## Enlaces del Proyecto
+## Enlaces del Proyecto📂📅
 - Dashboard: [`Power BI`](https://app.powerbi.com/view?r=eyJrIjoiYTIwYTRiYTEtNTgyMi00ZGVhLThlMzEtYmI4NDk5MzQ1ZDI1IiwidCI6IjEwYWE5MTJkLTJjNzYtNGI5YS1iZmI2LWJkNGQ0Nzk5MTUwNiIsImMiOjR9&pageName=9a9665ed52580701a34c)
 - Datasets: [`SPY 500, VIX y las 503 empresas`](https://finance.yahoo.com/)
+- Trello: [`Tablero s17-18-m-data-bi`](https://trello.com/invite/b/66cd3c02fac81073b6752532/ATTI1258aad3b3bb787408fc3314244223832BFE00CD/s17-18-m-data-bi)
+- Documentación del proyecto: [`Google Drive`](https://drive.google.com/drive/folders/1fwpO5y4G-MeEUO6U_X0g3vl-raLoAP2L?usp=drive_link)
 - Requisitos del proyecto: [`No Country`](https://drive.google.com/drive/folders/1kH9YZNrl84T8EldJYO_1q81jJXVeh6aq)
+
+
 
 ##  Disclaimer
 
