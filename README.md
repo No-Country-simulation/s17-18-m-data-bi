@@ -82,7 +82,7 @@ Se tiene previsto incorporar funcionalidades que faciliten la toma de decisiones
 ## Enlaces del Proyecto📂📅
 - Dashboard: [`Power BI`](https://app.powerbi.com/view?r=eyJrIjoiYTIwYTRiYTEtNTgyMi00ZGVhLThlMzEtYmI4NDk5MzQ1ZDI1IiwidCI6IjEwYWE5MTJkLTJjNzYtNGI5YS1iZmI2LWJkNGQ0Nzk5MTUwNiIsImMiOjR9&pageName=9a9665ed52580701a34c)
 - Datasets: [`SPY 500, VIX y las 503 empresas`](https://finance.yahoo.com/)
-- Trello: [`Tablero s17-18-m-data-bi`](https://trello.com/invite/b/66cd3c02fac81073b6752532/ATTI1258aad3b3bb787408fc3314244223832BFE00CD/s17-18-m-data-bi)
+- Trello: [`Tablero s17-18-m-data-bi`](https://trello.com/b/lSq3VU33)
 - Documentación de Gestión del proyecto: [`Google Drive`](https://drive.google.com/drive/folders/1YqU6Bku0vkjMmDrGOCkusEhOgo8wnYRk)
 - Requisitos del proyecto: [`No Country`](https://drive.google.com/drive/folders/1kH9YZNrl84T8EldJYO_1q81jJXVeh6aq)
 
