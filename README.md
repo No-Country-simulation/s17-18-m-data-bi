@@ -72,11 +72,11 @@ Se tiene previsto incorporar funcionalidades que faciliten la toma de decisiones
 - **Power BI:** Visualización de Datos. [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiYTIwYTRiYTEtNTgyMi00ZGVhLThlMzEtYmI4NDk5MzQ1ZDI1IiwidCI6IjEwYWE5MTJkLTJjNzYtNGI5YS1iZmI2LWJkNGQ0Nzk5MTUwNiIsImMiOjR9&pageName=9a9665ed52580701a34c)
 - **Streamlit:**  Plataforma para la creación de aplicaciones web interactivas a partir de scripts de Python. [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://robot-trading.streamlit.app/)
 - **Trello:** Herramienta de Gestión de Proyectos [![Trello](https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white)](https://trello.com/invite/b/66cd3c02fac81073b6752532/ATTI1258aad3b3bb787408fc3314244223832BFE00CD/s17-18-m-data-bi)
-- **GitHub y Colab:** Desarrollo Colaborativo y Control de Versiones. 
-- **Slack:** Comunicación diaria del equipo y colaboración en tiempo real.
-- **Google Meet:** Reuniones diarias, planificación de sprint y coordinación de trabajo.
-- **WhatsApp:** Comunicación instantánea para cuestiones urgentes.
-- **Google Drive:** Almacenamiento y sincronización de documentación.
+- **GitHub y Colab:** Desarrollo Colaborativo y Control de Versiones. [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
+- **Slack:** Comunicación diaria del equipo y colaboración en tiempo real.[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)](https://slack.com/)
+- **Google Meet:** Reuniones diarias, planificación de sprint y coordinación de trabajo.[![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white)](https://meet.google.com/)
+- **WhatsApp:** Comunicación instantánea para cuestiones urgentes.[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://www.whatsapp.com/)
+- **Google Drive:** Almacenamiento y sincronización de documentación.[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=google-drive&logoColor=white)](https://drive.google.com/)
 
 
 ## Enlaces del Proyecto📂📅
